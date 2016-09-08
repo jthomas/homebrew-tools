@@ -7,6 +7,7 @@ class Wsk < Formula
   bottle :unneeded
 
   def install
+    system "cp mac/amd64/wsk wsk"
     bin.install "wsk"
   end
 

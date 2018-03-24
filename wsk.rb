@@ -2,8 +2,8 @@ class Wsk < Formula
   desc "openwhisk command-line utility"
   homepage "https://github.com/openwhisk/openwhisk"
   url "https://openwhisk.eu-gb.bluemix.net/cli/go/download/mac/amd64/wsk"
-  sha256 "c78277d51dffda77e99507c630796519130f2122c27da4db164a6d191bb6100c"
-  version "08-Aug-2017_06:47" # from https://openwhisk.eu-gb.bluemix.net/cli/go/download/mac/amd64/
+  sha256 "0455b4290a23ae67577278f773e755f58d0435a7aefd4864f27b55f8d47d3267"
+  version "22-Feb-2018 23:21" # from https://openwhisk.eu-gb.bluemix.net/cli/go/download/mac/amd64/
 
   bottle :unneeded
 
